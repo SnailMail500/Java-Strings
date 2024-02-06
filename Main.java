@@ -12,5 +12,6 @@ public class Main {
         System.out.println(newStr.indexOf("World!"));//should return 7 if I'm right which is probable (I think?). 
         //I was right.
         //so that's kind of cool, especially given I'd never thought of strings as objects before...
+        //there will be more once i do more java
     }
 }
